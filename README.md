@@ -17,5 +17,4 @@ This is a group project. I was responsible for:
 - Excel
 
 
-
-![Dashboard Screenshot](Power%20BI%20%20Dashboard%20Second%20Objective.png)
+<img width="1920" height="1080" alt="Power BI Dashboard Second Objective" src="https://github.com/user-attachments/assets/f5b26504-0f54-4d72-a0fa-91a75ce828d6" />

@@ -18,3 +18,4 @@ This is a group project. I was responsible for:
 
 
 
+![Dashboard Screenshot](Power%20BI%20%20Dashboard%20Second%20Objective.png)

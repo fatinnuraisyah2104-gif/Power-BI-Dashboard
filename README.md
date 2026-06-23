@@ -17,3 +17,5 @@ This is a group project. I was responsible for:
 - Excel
 
 
+
+![Dashboard Screenshot](Power%20BI%20Second%20Objective.png)
